@@ -7,3 +7,4 @@ hello,Git.
 hello,Git.
 hello,Git.
 hello,master test.
+hello,hot fix.
